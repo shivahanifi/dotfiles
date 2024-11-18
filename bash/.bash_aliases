@@ -4,6 +4,9 @@ alias ll='ls -lah'
 ## Show hidden files ##
 alias l.='ls -d .* --color=auto'
 
+## nvim is too long
+alias nv="nvim"
+
 
 # Easier navigation: .., ..., ...., ....., ~ and -
 alias ..="cd .."
