@@ -7,6 +7,8 @@ alias l.='ls -d .* --color=auto'
 ## nvim is too long
 alias nv="nvim"
 
+## git related
+#alias g.s="git status"
 
 # Easier navigation: .., ..., ...., ....., ~ and -
 alias ..="cd .."
